@@ -5,6 +5,7 @@ sudo apt update && sudo apt upgrade
 ### Update Node
 
 npm install -g n
+
 sudo n stable
 
 
